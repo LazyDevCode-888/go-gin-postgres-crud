@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Build
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binary Output
+main
+bin/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
